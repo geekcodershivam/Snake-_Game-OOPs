@@ -1,0 +1,10 @@
+#canvas{
+    background-image: url("./borad.png");
+    border:8px solid green;
+}
+#mydiv{
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 20px;
+}
